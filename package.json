@@ -1,5 +1,5 @@
 {
-  "name": "@sgtickets/common",
+  "name": "@git-tix/common",
   "version": "1.0.9",
   "description": "",
   "main": "./build/index.js",
